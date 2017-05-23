@@ -1,0 +1,27 @@
+{
+  "name": "kodilla-grunt-ex",
+  "version": "1.0.0",
+  "description": "example desc",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dianagrela/20170522Repo.git"
+  },
+  "keywords": [
+    "grunt"
+  ],
+  "author": "Diana Grela",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dianagrela/20170522Repo/issues"
+  },
+  "homepage": "https://github.com/dianagrela/20170522Repo#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-imagemin": "^1.0.1",
+    "grunt-sass": "^2.0.0"
+  }
+}
